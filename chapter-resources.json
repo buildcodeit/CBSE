@@ -1,0 +1,44 @@
+{
+  "Physics": {
+    "01": { "notes": [ { "title": "Ch 1 Notes — Electric Charges & Fields", "link": "" } ] },
+    "02": { "notes": [ { "title": "Ch 2 Notes — Electrostatic Potential",    "link": "" } ] },
+    "03": { "notes": [] }, "04": { "notes": [] }, "05": { "notes": [] },
+    "06": { "notes": [] }, "07": { "notes": [] }, "08": { "notes": [] },
+    "09": { "notes": [] }, "10": { "notes": [] }, "11": { "notes": [] },
+    "12": { "notes": [] }, "13": { "notes": [] }, "14": { "notes": [] }
+  },
+  "Chemistry": {
+    "01": { "notes": [] }, "02": { "notes": [] }, "03": { "notes": [] },
+    "04": { "notes": [] }, "05": { "notes": [] }, "06": { "notes": [] },
+    "07": { "notes": [] }, "08": { "notes": [] }, "09": { "notes": [] }, "10": { "notes": [] }
+  },
+  "Mathematics": {
+    "01": { "notes": [] }, "02": { "notes": [] }, "03": { "notes": [] },
+    "04": { "notes": [] }, "05": { "notes": [] }, "06": { "notes": [] },
+    "07": { "notes": [] }, "08": { "notes": [] }, "09": { "notes": [] },
+    "10": { "notes": [] }, "11": { "notes": [] }, "12": { "notes": [] }, "13": { "notes": [] }
+  },
+  "Biology": {
+    "01": { "notes": [] }, "02": { "notes": [] }, "03": { "notes": [] },
+    "04": { "notes": [] }, "05": { "notes": [] }, "06": { "notes": [] },
+    "07": { "notes": [] }, "08": { "notes": [] }, "09": { "notes": [] },
+    "10": { "notes": [] }, "11": { "notes": [] }, "12": { "notes": [] }, "13": { "notes": [] }
+  },
+  "English": {
+    "F1": { "notes": [] }, "F2": { "notes": [] }, "F3": { "notes": [] },
+    "F4": { "notes": [] }, "F5": { "notes": [] }, "V1": { "notes": [] }, "V2": { "notes": [] }
+  },
+  "Computer Science": {
+    "01": { "notes": [] }, "02": { "notes": [] }, "03": { "notes": [] },
+    "04": { "notes": [] }, "05": { "notes": [] }, "06": { "notes": [] }, "07": { "notes": [] }
+  },
+  "Economics": {
+    "01": { "notes": [] }, "02": { "notes": [] }, "03": { "notes": [] },
+    "04": { "notes": [] }, "05": { "notes": [] }, "06": { "notes": [] },
+    "07": { "notes": [] }, "08": { "notes": [] }, "09": { "notes": [] }, "10": { "notes": [] }
+  },
+  "History": {
+    "01": { "notes": [] }, "02": { "notes": [] }, "03": { "notes": [] },
+    "04": { "notes": [] }, "05": { "notes": [] }
+  }
+}
