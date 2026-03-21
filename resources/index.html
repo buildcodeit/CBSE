@@ -745,8 +745,7 @@ document.addEventListener('DOMContentLoaded', function () {
           files.forEach(function(f){ body.appendChild(makeFileRow(f)); });
         }
 
-      } else {
-        } else if (key === 'videos') {
+      } else if (key === 'videos') {
         var vGrid = document.createElement('div');
         vGrid.style.cssText = 'padding:.65rem .9rem .75rem;display:flex;flex-direction:column;gap:.5rem';
         files.forEach(function(f) {
