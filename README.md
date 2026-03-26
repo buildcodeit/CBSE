@@ -9,7 +9,7 @@ Free, centralized notes, PYQs, and study materials for Class 12 board students.
 Accountancy · Business Studies · Economics · English · Mathematics · Physics · Chemistry · Biology 
 
 ## Features
-- Notes, PYQs,youtube channels and study materials
+- Notes, PYQs, youtube channels and study materials
 - Fast and free to access
 
 ## Contributing
