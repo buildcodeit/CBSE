@@ -477,6 +477,7 @@
         <div class="screen active" id="screen-landing" style="padding:1.75rem 2.5rem 2.5rem">
           <div class="page-header">
             <h1>Resources &amp; Notes</h1>
+            codex/enhance-user-interface-for-study-platform-r6v88q
             <p>Continue from where you left off, then browse subjects below or use the sidebar to jump straight in.</p>
           </div>
           <div id="landingContent">
@@ -486,6 +487,12 @@
               <div class="subj-card"><div class="sc-top"><div class="sc-icon" style="background:#0d2626">🧪</div></div><p class="sc-name">Chemistry</p><p class="sc-desc">Electrochemistry, organic chemistry, biomolecules.</p><span class="sc-arrow">→</span></div>
               <div class="subj-card"><div class="sc-top"><div class="sc-icon" style="background:#0d1f15">🌱</div></div><p class="sc-name">Biology</p><p class="sc-desc">Genetics, evolution, biotechnology, ecology.</p><span class="sc-arrow">→</span></div>
             </div>
+
+ 
+            <p>Continue from where you left off, then browse subjects below or use the sidebar to jump straight in.</p>
+     <p>Continue from where you left off, or use the sidebar to jump to a subject instantly.</p>
+
+ main
           </div>
         </div>
 
@@ -1171,6 +1178,14 @@ document.addEventListener('DOMContentLoaded', function () {
     dash.querySelectorAll('.recent-mini-item').forEach(function(link){
       link.addEventListener('click', function(){
         openModal(link.getAttribute('data-title'), link.getAttribute('data-url'), link.getAttribute('data-type') || 'notes');
+ codex/enhance-user-interface-for-study-platform-r6v88q
+
+ codex/enhance-user-interface-for-study-platform-s2ko5w
+
+ codex/enhance-user-interface-for-study-platform-5wi92t
+
+ main
+ main
       });
     });
 
@@ -1193,8 +1208,8 @@ document.addEventListener('DOMContentLoaded', function () {
           '<span class="sc-arrow">→</span>';
         card.addEventListener('click', function () { pickSubject(subj); });
         subjRow.appendChild(card);
+main
       });
-      content.appendChild(subjRow);
     });
 
   }
