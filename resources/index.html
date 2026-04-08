@@ -105,6 +105,7 @@
     @keyframes fadeUp{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:translateY(0)}}
     .screen-back{display:inline-flex;align-items:center;gap:.3rem;font-size:.74rem;color:var(--muted-2);margin-bottom:1.25rem;transition:color .13s;background:none;border:none;padding:0;cursor:pointer}
     .screen-back:hover{color:var(--accent-2)}
+    /* Canonical merged layout: keep resources + add-ons visible together (no tab split). */
     .complete-layout{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(280px,.8fr);gap:.9rem;align-items:start}
     .complete-pane{animation:fadeUp .16s ease}
     .addons-pane{position:sticky;top:.5rem}
